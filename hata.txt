@@ -1,0 +1,5 @@
+günleri yanlış gösteriyo
+
+aynı gün saate farklı rtandevular giriliyo 
+
+caSE 4 te gösterme eksik
